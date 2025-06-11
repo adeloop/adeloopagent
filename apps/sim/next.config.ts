@@ -24,6 +24,7 @@ const nextConfig: NextConfig = {
   },
   experimental: {
     optimizeCss: true,
+    cpus: 1
   },
   ...(env.NODE_ENV === 'development' && {
     allowedDevOrigins: [
