@@ -51,7 +51,7 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   title: {
     template: '',
-    default: 'Sim Studio',
+    default: 'adeloop',
   },
   description:
     'Build and deploy AI agents using our Figma-like canvas. Build, write evals, and deploy AI agent workflows that automate workflows and streamline your business processes.',
